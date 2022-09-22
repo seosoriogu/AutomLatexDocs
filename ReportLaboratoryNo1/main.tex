@@ -1,0 +1,86 @@
+\documentclass[runningheads]{llncs}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{longtable}
+\graphicspath{{Images}}
+% Used for displaying a sample figure. If possible, figure files should
+% be included in EPS format.
+%
+% If you use the hyperref package, please uncomment the following two lines
+% to display URLs in blue roman font according to Springer's eBook style:
+%\usepackage{color}
+%\renewcommand\UrlFont{\color{blue}\rmfamily}
+%
+\begin{document}
+
+%
+\begin{titlepage}
+    \centering
+    {\bfseries\LARGE International University of Ecuador \par}
+    \vspace{1cm}
+    {\scshape\Large School of Mechatronics Engineering \par}
+    \vspace{3cm}
+    {\scshape\Huge Industrial Automation \\ Lab's report practice No. 1\par}
+    \vspace{3cm}
+    {\itshape\Large CADeSIMU Software and circuits implementation. \par}
+    \vfill
+    {\Large Authors: \par}
+    {\Large Sebastian Osorio \par}
+    {\Large Pablo Guacho \par}
+    \vfill
+    {\Large 2022-2023 \par}
+\end{titlepage}
+\newpage
+\title{CADeSIMU software and circuits implementation\thanks{UIDE}}
+
+\author{Sebastian Osorio\inst{1}\orcidID{0000-0003-0106-5482}
+    \and
+    Pablo Guacho\inst{1}\orcidID{0000-0003-0106-5482}
+}
+
+\authorrunning{S. Osorio, P. Guacho}
+
+\institute{International University of Ecuador, Quito Av. Jorge Fernández and Av. Simón Bolívar 170201, Ecuador
+    \email{uide@uide.edu.ec}
+    \url{https://www.uide.edu.ec/} }
+
+\maketitle
+
+
+\section{CADeSIMU}
+\begin{itemize}
+    \item Using CADeSIMU software, implement the following circuit.Fig \ref{fig:CircuitToReplicate}
+    \item Place the correct referencing, numbering, labeling, location in the circuit to be simulated. Explain how the circuit would work.
+    \item Submit: Electric diagram implemented in CADeSIMU software in pdf format, CADeSIMU program in cad format.
+    \item Make a summary table, indicating: nomenclature, symbols and a real image of each of the elements present in the scheme or diagram.
+    \item Comment on the importance of labeling the terminals of the elements, contacts, coils, terminal blocks and connection cables in a control panel and electrical diagrams under the standard indicated in the previous literal.
+\end{itemize}
+\begin{figure}[!ht]
+    \centering
+    \caption{Circuit meant to be replicated.}\label{fig:CircuitToReplicate}
+    \includegraphics[width=\linewidth, height=7cm]{CircuitToReplicate.png}
+\end{figure}
+
+\newpage
+
+\begin{figure}[h]
+    \centering
+    \caption{Circuit replicated and being simulated in CADeSIMU}\label{fig:}
+    \includegraphics[width=\linewidth, height=7cm]{CircuitReplicated.png}
+\end{figure}
+
+\subsection{Summary of the circuit components}
+
+\input{Chapters/SummaryTable.tex}
+
+\section{Conclusions and recommendations}
+Building a circuit using CADeSIMU software allows us to simulate any circuit and see if it works properly. However,
+it is important that the labeling of the terminals of: the elements, contacts, coils, terminal blocks and connection cables 
+are used correctly hence it helps to comprehend these diagrams.
+
+
+
+% \bibliographystyle{splncs04}
+% \bibliography{mybibliography}
+\end{document}

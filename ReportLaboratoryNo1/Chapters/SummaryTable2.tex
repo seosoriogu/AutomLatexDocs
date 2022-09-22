@@ -1,0 +1,43 @@
+% Please add the following required packages to your document preamble:
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+% \usepackage{longtable}
+% Note: It may be necessary to compile the document several times to get a multi-page table to line up properly
+\begin{longtable}[c]{|
+    >{\columncolor[HTML]{A6637E}}l |l|l|l|l|}
+    \caption{Components summary.}
+    \label{tab:CompSumary}\\
+    \hline
+    \cellcolor[HTML]{673147}{\color[HTML]{FFFFFF} No} &
+      \cellcolor[HTML]{673147}{\color[HTML]{FFFFFF} Name} &
+      \cellcolor[HTML]{673147}{\color[HTML]{FFFFFF} Nomenclature} &
+      \cellcolor[HTML]{673147}{\color[HTML]{FFFFFF} Symbol} &
+      \cellcolor[HTML]{673147}{\color[HTML]{FFFFFF} Real Image} \\ \hline
+    \endfirsthead
+    %
+    \multicolumn{5}{c}%
+    {{\bfseries Table \thetable\ continued from previous page}} \\
+    \hline
+    \cellcolor[HTML]{673147}{\color[HTML]{FFFFFF} No} &
+      \cellcolor[HTML]{673147}{\color[HTML]{FFFFFF} Name} &
+      \cellcolor[HTML]{673147}{\color[HTML]{FFFFFF} Nomenclature} &
+      \cellcolor[HTML]{673147}{\color[HTML]{FFFFFF} Symbol} &
+      \cellcolor[HTML]{673147}{\color[HTML]{FFFFFF} Real Image} \\ \hline
+    \endhead
+    %
+    \cellcolor[HTML]{A6637E}{\color[HTML]{FFFFFF} 1} & Automatic Switch  II & Automatic Switch  II & AutomaticSwitchII  & AutomaticSwitchII  \\ \hline
+    \cellcolor[HTML]{A6637E}{\color[HTML]{FFFFFF} 2} & Automatic Switch IN  & Automatic Switch IN  & AutomaticSwitchIN  & AutomaticSwitchIN  \\ \hline
+    \cellcolor[HTML]{A6637E}{\color[HTML]{FFFFFF} 3} & Coil contactor relay & Coil contactor relay & CoilContactorRelay & CoilContactorRelay \\ \hline
+    \cellcolor[HTML]{A6637E}{\color[HTML]{FFFFFF} 4} & Contactor III        & Contactor III        & ContactorIII       & ContactorIII       \\ \hline
+    \cellcolor[HTML]{A6637E}{\color[HTML]{FFFFFF} 5} & Double Interuptor    & Double Interuptor    & doubleInterruptor  & doubleInterruptor  \\ \hline
+    {\color[HTML]{FFFFFF} 6}                         & Fuse III             & Fuse III             & FuseIII            & FuseIII            \\ \hline
+    {\color[HTML]{FFFFFF} 7}                         & I O II Switch        & I O II Switch        & I\_0\_II\_Switch   & I\_0\_II\_Switch   \\ \hline
+    {\color[HTML]{FFFFFF} 8}                         & Input Conector       & Input Conector       & inputConection     & inputConection     \\ \hline
+    {\color[HTML]{FFFFFF} 9}                         & Mono-Phase Motor     & Mono-Phase Motor     & monoPhaseMotor     & monoPhaseMotor     \\ \hline
+    {\color[HTML]{FFFFFF} 10}                        & N-O Contact          & N-O Contact          & NO\_Contact        & NO\_Contact        \\ \hline
+    {\color[HTML]{FFFFFF} 11}                        & Output Conector      & Output Conector      & outputConector     & outputConector     \\ \hline
+    {\color[HTML]{FFFFFF} 12}                        & Pilot Signal         & Pilot Signal         & PilotSignal        & PilotSignal        \\ \hline
+    {\color[HTML]{FFFFFF} 13}                        & Power supply         & Power supply         & powerSupply        & powerSupply        \\ \hline
+    {\color[HTML]{FFFFFF} 14}                        & Push button          & Push button          & pushbutton         & pushbutton         \\ \hline
+    {\color[HTML]{FFFFFF} 15}                        & Three phase motor    & Three phase motor    & ThreePhaseMotor    & ThreePhaseMotor    \\ \hline
+    \end{longtable}
