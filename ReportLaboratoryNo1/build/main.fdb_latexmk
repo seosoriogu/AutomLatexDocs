@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1663859214 "c:/Users/sebis/OneDrive - Universidad Internacional del Ecuador/7mo_Semestre/Automatización Industrial/Primer semestre/ReportLaboratoryNo1/main.tex" "build/main.pdf" "main" 1663859219
+["pdflatex"] 1663860985 "c:/Users/sebis/OneDrive - Universidad Internacional del Ecuador/7mo_Semestre/Automatización Industrial/Primer semestre/ReportLaboratoryNo1/main.tex" "build/main.pdf" "main" 1663860990
   "C:/Users/sebis/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1663830020 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/sebis/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0900.pk" 1663179413 22504 06de89e2643538a42c6a80ce81522be2 ""
   "C:/Users/sebis/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1663180383 25420 51ae27afdf3d37e76db6d49640a76988 ""
@@ -74,12 +74,15 @@
   "C:/Users/sebis/AppData/Local/Programs/MiKTeX/tex/latex/tools/longtable.sty" 1636710260 12892 3ffe092fc7f5d1cb9866f1bcb071d0d6 ""
   "C:/Users/sebis/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1636710260 32262 2bb622a0aa56c4a7a5cbdfe9d122c15a ""
   "C:/Users/sebis/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "Chapters/SummaryTable.tex" 1663857548 5802 a913bd23742a3300c1666d72da64aaa0 ""
+  "Chapters/SummaryTable.tex" 1663860979 6044 454cf6106bec2fb7d68873256c1a6a56 ""
   "Images/CircuitReplicated.png" 1663813895 131328 b18e23c89d862e19486770b4c045cfbc ""
   "Images/CircuitToReplicate.png" 1663803582 382571 b52eee02f944d8ef32f65b506a9f9022 ""
+  "Images/Device/AutomaticSwitchII.jpg" 1663857623 14178 6599a262fc5b5ee068fa789e4edf6694 ""
   "Images/Device/AutomaticSwitchII.png" 1663825890 4346 d2c5ffbb303ee8f056206c02917f2da2 ""
   "Images/Device/AutomaticSwitchIN.png" 1663822746 4421 9582d01be1b1fbe1a69323d14d2e1455 ""
+  "Images/Device/AutomaticSwitchINReal.png" 1663858163 218190 8e6b23bf66b4ff09593012854f59b668 ""
   "Images/Device/CoilContactorRelay.png" 1663826550 3256 2dfe688e5503d96173f72d4630bdd94c ""
+  "Images/Device/CoilContactorRelayReal.jpg" 1663857475 14768 2594f9bb5b9008b79f0323a3f2b0a783 ""
   "Images/Device/ContactorIII.png" 1663825694 5087 9c4c12c1f1fea9376b96f087953f1430 ""
   "Images/Device/FuseIII.png" 1663825672 5771 8da2a6e5d28270173674e5c2bbeafcf5 ""
   "Images/Device/I_0_II_Switch.png" 1663826517 4113 4df4fd80a56142ed4801d92c9d6429b9 ""
@@ -92,7 +95,7 @@
   "Images/Device/outputConector.png" 1663826013 2490 0d05d4147c42c0fc16e3b34ee399e16e ""
   "Images/Device/powerSupply.png" 1663825925 5913 2e0d380b01fdac53a6d297c762df8111 ""
   "Images/Device/pushbutton.png" 1663826446 4390 d7df4e602ef5d9ca43446bbac96048c5 ""
-  "build/main.aux" 1663859219 1298 df398f7c01c9b57141de74c23166c15d "pdflatex"
+  "build/main.aux" 1663860989 1298 67706437ef84633041e6744eafae06a6 "pdflatex"
   "c:/Users/sebis/OneDrive - Universidad Internacional del Ecuador/7mo_Semestre/Automatización Industrial/Primer semestre/ReportLaboratoryNo1/main.tex" 1663859213 3805 463be92b6e544a5aae63e3554d816ffd ""
   "main.tex" 1663859213 3805 463be92b6e544a5aae63e3554d816ffd ""
   (generated)

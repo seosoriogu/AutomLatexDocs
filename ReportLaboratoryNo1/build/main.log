@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.16)  22 SEP 2022 10:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.16)  22 SEP 2022 10:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -284,12 +284,12 @@ File: Images/CircuitReplicated.png Graphic file (type png)
 Package pdftex.def Info: Images/CircuitReplicated.png  used on input line 70.
 (pdftex.def)             Requested size: 347.1104pt x 199.16547pt.
  (Chapters/SummaryTable.tex
-Overfull \hbox (7.93736pt too wide) in alignment at lines 7--16
+Overfull \hbox (6.64705pt too wide) in alignment at lines 7--16
  [] [] [] [] [] 
  []
 
 
-Overfull \hbox (7.93736pt too wide) in alignment at lines 16--26
+Overfull \hbox (6.64705pt too wide) in alignment at lines 16--26
  [] [] [] [] [] 
  []
 
@@ -298,94 +298,109 @@ File: Images/Device/AutomaticSwitchII.png Graphic file (type png)
 <use Images/Device/AutomaticSwitchII.png>
 Package pdftex.def Info: Images/Device/AutomaticSwitchII.png  used on input line 28.
 (pdftex.def)             Requested size: 85.3591pt x 85.3626pt.
-<Images/Device/AutomaticSwitchIN.png, id=29, 146.34676pt x 90.3375pt>
+<Images/Device/AutomaticSwitchII.jpg, id=29, 342.5297pt x 342.5297pt>
+File: Images/Device/AutomaticSwitchII.jpg Graphic file (type jpg)
+<use Images/Device/AutomaticSwitchII.jpg>
+Package pdftex.def Info: Images/Device/AutomaticSwitchII.jpg  used on input line 28.
+(pdftex.def)             Requested size: 85.3552pt x 85.3552pt.
+<Images/Device/AutomaticSwitchIN.png, id=30, 146.34676pt x 90.3375pt>
 File: Images/Device/AutomaticSwitchIN.png Graphic file (type png)
 <use Images/Device/AutomaticSwitchIN.png>
 Package pdftex.def Info: Images/Device/AutomaticSwitchIN.png  used on input line 29.
 (pdftex.def)             Requested size: 85.35904pt x 85.35834pt.
-<Images/Device/CoilContactorRelay.png, id=30, 121.6545pt x 84.91725pt>
+<Images/Device/AutomaticSwitchINReal.png, id=31, 512.66531pt x 455.45157pt>
+File: Images/Device/AutomaticSwitchINReal.png Graphic file (type png)
+<use Images/Device/AutomaticSwitchINReal.png>
+Package pdftex.def Info: Images/Device/AutomaticSwitchINReal.png  used on input line 29.
+(pdftex.def)             Requested size: 85.35274pt x 85.35526pt.
+<Images/Device/CoilContactorRelay.png, id=32, 121.6545pt x 84.91725pt>
 File: Images/Device/CoilContactorRelay.png Graphic file (type png)
 <use Images/Device/CoilContactorRelay.png>
 Package pdftex.def Info: Images/Device/CoilContactorRelay.png  used on input line 30.
 (pdftex.def)             Requested size: 85.36174pt x 85.36017pt.
-<Images/Device/ContactorIII.png, id=31, 174.6525pt x 82.50826pt>
+<Images/Device/CoilContactorRelayReal.jpg, id=33, 343.2825pt x 343.2825pt>
+File: Images/Device/CoilContactorRelayReal.jpg Graphic file (type jpg)
+<use Images/Device/CoilContactorRelayReal.jpg>
+Package pdftex.def Info: Images/Device/CoilContactorRelayReal.jpg  used on input line 30.
+(pdftex.def)             Requested size: 85.35422pt x 85.35422pt.
+<Images/Device/ContactorIII.png, id=34, 174.6525pt x 82.50826pt>
 File: Images/Device/ContactorIII.png Graphic file (type png)
 <use Images/Device/ContactorIII.png>
 Package pdftex.def Info: Images/Device/ContactorIII.png  used on input line 31.
 (pdftex.def)             Requested size: 85.35927pt x 85.35835pt.
-<Images/Device/doubleInterruptor.png, id=32, 192.72pt x 80.09924pt>
+<Images/Device/doubleInterruptor.png, id=35, 192.72pt x 80.09924pt>
 File: Images/Device/doubleInterruptor.png Graphic file (type png)
 <use Images/Device/doubleInterruptor.png>
 Package pdftex.def Info: Images/Device/doubleInterruptor.png  used on input line 32.
 (pdftex.def)             Requested size: 85.35577pt x 85.3631pt.
-<Images/Device/FuseIII.png, id=33, 180.675pt x 85.5195pt>
+<Images/Device/FuseIII.png, id=36, 180.675pt x 85.5195pt>
 File: Images/Device/FuseIII.png Graphic file (type png)
 <use Images/Device/FuseIII.png>
 Package pdftex.def Info: Images/Device/FuseIII.png  used on input line 33.
 (pdftex.def)             Requested size: 85.35835pt x 85.36137pt.
-<Images/Device/I_0_II_Switch.png, id=34, 157.7895pt x 102.98476pt>
+<Images/Device/I_0_II_Switch.png, id=37, 157.7895pt x 102.98476pt>
 File: Images/Device/I_0_II_Switch.png Graphic file (type png)
 <use Images/Device/I_0_II_Switch.png>
 Package pdftex.def Info: Images/Device/I_0_II_Switch.png  used on input line 34.
 (pdftex.def)             Requested size: 85.35674pt x 85.35788pt.
-<Images/Device/inputConection.png, id=35, 69.25874pt x 40.35075pt>
+<Images/Device/inputConection.png, id=38, 69.25874pt x 40.35075pt>
 File: Images/Device/inputConection.png Graphic file (type png)
 <use Images/Device/inputConection.png>
 Package pdftex.def Info: Images/Device/inputConection.png  used on input line 35.
 (pdftex.def)             Requested size: 85.35893pt x 85.37262pt.
-<Images/Device/monoPhaseMotor.png, id=36, 478.1865pt x 246.32025pt>
+<Images/Device/monoPhaseMotor.png, id=39, 478.1865pt x 246.32025pt>
 File: Images/Device/monoPhaseMotor.png Graphic file (type png)
 <use Images/Device/monoPhaseMotor.png>
 Package pdftex.def Info: Images/Device/monoPhaseMotor.png  used on input line 36.
 (pdftex.def)             Requested size: 85.35478pt x 85.36018pt.
-<Images/Device/NO_Contact.png, id=37, 111.41624pt x 103.587pt>
+<Images/Device/NO_Contact.png, id=40, 111.41624pt x 103.587pt>
 File: Images/Device/NO_Contact.png Graphic file (type png)
 <use Images/Device/NO_Contact.png>
 Package pdftex.def Info: Images/Device/NO_Contact.png  used on input line 37.
 (pdftex.def)             Requested size: 85.35895pt x 85.35759pt.
-<Images/Device/outputConector.png, id=38, 97.5645pt x 52.39575pt>
+<Images/Device/outputConector.png, id=41, 97.5645pt x 52.39575pt>
 File: Images/Device/outputConector.png Graphic file (type png)
 <use Images/Device/outputConector.png>
 Package pdftex.def Info: Images/Device/outputConector.png  used on input line 38.
 (pdftex.def)             Requested size: 85.35977pt x 85.36592pt.
-<Images/Device/PilotSignal.png, id=39, 112.62074pt x 94.55325pt>
+<Images/Device/PilotSignal.png, id=42, 112.62074pt x 94.55325pt>
 File: Images/Device/PilotSignal.png Graphic file (type png)
 <use Images/Device/PilotSignal.png>
 Package pdftex.def Info: Images/Device/PilotSignal.png  used on input line 39.
 (pdftex.def)             Requested size: 85.36064pt x 85.3626pt.
-<Images/Device/powerSupply.png, id=40, 147.55125pt x 121.6545pt>
+<Images/Device/powerSupply.png, id=43, 147.55125pt x 121.6545pt>
 File: Images/Device/powerSupply.png Graphic file (type png)
 <use Images/Device/powerSupply.png>
 Package pdftex.def Info: Images/Device/powerSupply.png  used on input line 40.
 (pdftex.def)             Requested size: 85.35913pt x 85.36174pt.
-<Images/Device/pushbutton.png, id=41, 144.54pt x 116.23425pt>
+<Images/Device/pushbutton.png, id=44, 144.54pt x 116.23425pt>
 File: Images/Device/pushbutton.png Graphic file (type png)
 <use Images/Device/pushbutton.png>
 Package pdftex.def Info: Images/Device/pushbutton.png  used on input line 41.
 (pdftex.def)             Requested size: 85.35724pt x 85.36284pt.
-<Images/Device/ThreePhaseMotor.png, id=42, 194.52675pt x 146.34676pt>
+<Images/Device/ThreePhaseMotor.png, id=45, 194.52675pt x 146.34676pt>
 File: Images/Device/ThreePhaseMotor.png Graphic file (type png)
 <use Images/Device/ThreePhaseMotor.png>
 Package pdftex.def Info: Images/Device/ThreePhaseMotor.png  used on input line 42.
 (pdftex.def)             Requested size: 85.35753pt x 85.35904pt.
 
-Overfull \hbox (7.93736pt too wide) in alignment at lines 26--43
+Overfull \hbox (6.64705pt too wide) in alignment at lines 26--43
  [] [] [] [] [] 
  []
 
-[3 <./Images/CircuitReplicated.png> <./Images/Device/AutomaticSwitchII.png> <./Images/Device/AutomaticSwitchIN.png>] [4 <./Images/Device/CoilContactorRelay.png> <./Images/Device/ContactorIII.png> <./Images/Device/doubleInterruptor.png> <./Images/Device/FuseIII.png> <./Images/Device/I_0_II_Switch.png>] [5 <./Images/Device/inputConection.png> <./Images/Device/monoPhaseMotor.png> <./Images/Device/NO_Contact.png> <./Images/Device/outputConector.png> <./Images/Device/PilotSignal.png>]) [6 <./Images/Device/powerSupply.png> <./Images/Device/pushbutton.png> <./Images/Device/ThreePhaseMotor.png>] (c:\Users\sebis\OneDrive - Universidad Internacional del Ecuador\7mo_Semestre\Automatización Industrial\Primer semestre\ReportLaboratoryNo1\build\main.aux) ) 
+[3 <./Images/CircuitReplicated.png> <./Images/Device/AutomaticSwitchII.png> <./Images/Device/AutomaticSwitchII.jpg> <./Images/Device/AutomaticSwitchIN.png> <./Images/Device/AutomaticSwitchINReal.png>] [4 <./Images/Device/CoilContactorRelay.png> <./Images/Device/CoilContactorRelayReal.jpg> <./Images/Device/ContactorIII.png> <./Images/Device/doubleInterruptor.png> <./Images/Device/FuseIII.png> <./Images/Device/I_0_II_Switch.png>] [5 <./Images/Device/inputConection.png> <./Images/Device/monoPhaseMotor.png> <./Images/Device/NO_Contact.png> <./Images/Device/outputConector.png> <./Images/Device/PilotSignal.png>]) [6 <./Images/Device/powerSupply.png> <./Images/Device/pushbutton.png> <./Images/Device/ThreePhaseMotor.png>] (c:\Users\sebis\OneDrive - Universidad Internacional del Ecuador\7mo_Semestre\Automatización Industrial\Primer semestre\ReportLaboratoryNo1\build\main.aux) ) 
 Here is how much of TeX's memory you used:
- 2970 strings out of 475389
- 48963 string characters out of 2777000
+ 2997 strings out of 475389
+ 50021 string characters out of 2777000
  409926 words of memory out of 3000000
- 24298 multiletter control sequences out of 15000+600000
+ 24322 multiletter control sequences out of 15000+600000
  486177 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,9n,62p,477b,257s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 55i,9n,62p,563b,257s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc2488.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk><C:/Users/sebis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/sebis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/sebis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/sebis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on "c:\Users\sebis\OneDrive - Universidad Internacional del Ecuador\7mo_Semestre\Automatización Industrial\Primer semestre\ReportLaboratoryNo1\build\main.pdf" (6 pages, 627962 bytes).
+Output written on "c:\Users\sebis\OneDrive - Universidad Internacional del Ecuador\7mo_Semestre\Automatización Industrial\Primer semestre\ReportLaboratoryNo1\build\main.pdf" (6 pages, 843310 bytes).
 PDF statistics:
- 416 PDF objects out of 1000 (max. 8388607)
+ 420 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
