@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.16)  29 SEP 2022 12:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.16)  30 SEP 2022 12:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -227,13 +227,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <images/powerCircuit.png, id=23, 532.99126pt x 444.4605pt>
 File: images/powerCircuit.png Graphic file (type png)
 <use images/powerCircuit.png>
-Package pdftex.def Info: images/powerCircuit.png  used on input line 86.
+Package pdftex.def Info: images/powerCircuit.png  used on input line 88.
 (pdftex.def)             Requested size: 347.1315pt x 284.53513pt.
  [3 <./images/powerCircuit.png>]
 <images/controlCircuit.png, id=30, 497.4585pt x 466.74374pt>
 File: images/controlCircuit.png Graphic file (type png)
 <use images/controlCircuit.png>
-Package pdftex.def Info: images/controlCircuit.png  used on input line 94.
+Package pdftex.def Info: images/controlCircuit.png  used on input line 96.
 (pdftex.def)             Requested size: 347.13312pt x 426.80995pt.
  [4 <./images/controlCircuit.png>] (c:\Users\sebis\OneDrive - Universidad Internacional del Ecuador\7mo_Semestre\Automatización Industrial\Primer semestre\PreparatoryLabNo2\build\main.aux) ) 
 Here is how much of TeX's memory you used:
