@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.16)  28 SEP 2022 15:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.16)  29 SEP 2022 12:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -223,19 +223,31 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 43.
- [2] (c:\Users\sebis\OneDrive - Universidad Internacional del Ecuador\7mo_Semestre\Automatización Industrial\Primer semestre\PreparatoryLabNo2\build\main.aux) ) 
+ [2]
+<images/powerCircuit.png, id=23, 532.99126pt x 444.4605pt>
+File: images/powerCircuit.png Graphic file (type png)
+<use images/powerCircuit.png>
+Package pdftex.def Info: images/powerCircuit.png  used on input line 86.
+(pdftex.def)             Requested size: 347.1315pt x 284.53513pt.
+ [3 <./images/powerCircuit.png>]
+<images/controlCircuit.png, id=30, 497.4585pt x 466.74374pt>
+File: images/controlCircuit.png Graphic file (type png)
+<use images/controlCircuit.png>
+Package pdftex.def Info: images/controlCircuit.png  used on input line 94.
+(pdftex.def)             Requested size: 347.13312pt x 426.80995pt.
+ [4 <./images/controlCircuit.png>] (c:\Users\sebis\OneDrive - Universidad Internacional del Ecuador\7mo_Semestre\Automatización Industrial\Primer semestre\PreparatoryLabNo2\build\main.aux) ) 
 Here is how much of TeX's memory you used:
- 2061 strings out of 475389
- 33148 string characters out of 2777000
- 375483 words of memory out of 3000000
- 23434 multiletter control sequences out of 15000+600000
- 485401 words of font info for 61 fonts, out of 8000000 for 9000
+ 2081 strings out of 475389
+ 33602 string characters out of 2777000
+ 381499 words of memory out of 3000000
+ 23449 multiletter control sequences out of 15000+600000
+ 486177 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,8n,62p,358b,252s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc2488.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk><C:/Users/sebis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/sebis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/sebis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/sebis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on "c:\Users\sebis\OneDrive - Universidad Internacional del Ecuador\7mo_Semestre\Automatización Industrial\Primer semestre\PreparatoryLabNo2\build\main.pdf" (2 pages, 112403 bytes).
+ <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc2488.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk> <C:\Users\sebis\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk><C:/Users/sebis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/sebis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/sebis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/sebis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on "c:\Users\sebis\OneDrive - Universidad Internacional del Ecuador\7mo_Semestre\Automatización Industrial\Primer semestre\PreparatoryLabNo2\build\main.pdf" (4 pages, 176349 bytes).
 PDF statistics:
- 273 PDF objects out of 1000 (max. 8388607)
+ 343 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

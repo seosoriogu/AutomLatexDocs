@@ -1,6 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1664395914 "c:/Users/sebis/OneDrive - Universidad Internacional del Ecuador/7mo_Semestre/Automatización Industrial/Primer semestre/PreparatoryLabNo2/main.tex" "build/main.pdf" "main" 1664395917
+["pdflatex"] 1664471165 "c:/Users/sebis/OneDrive - Universidad Internacional del Ecuador/7mo_Semestre/Automatización Industrial/Primer semestre/PreparatoryLabNo2/main.tex" "build/main.pdf" "main" 1664471168
   "C:/Users/sebis/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1664273075 82686 2381c3433487640bf26aa76a10db7eb2 ""
+  "C:/Users/sebis/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0900.pk" 1663179413 22504 06de89e2643538a42c6a80ce81522be2 ""
   "C:/Users/sebis/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1663180383 25420 51ae27afdf3d37e76db6d49640a76988 ""
   "C:/Users/sebis/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1663179409 31952 fb0741bda272f809ba3caa4af7794706 ""
   "C:/Users/sebis/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1663179419 40136 b357208afc20565205995a04846974af ""
@@ -13,6 +14,7 @@
   "C:/Users/sebis/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1440.pk" 1663724096 47464 8b831afecdfd3b018dd85deb62acedde ""
   "C:/Users/sebis/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt0900.pk" 1663180385 17512 0fa73cba4b5ecc89d6c9bc9f6bee02e5 ""
   "C:/Users/sebis/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1663334356 10785261 370b137b9e7e3b744707dde7067266a3 ""
+  "C:/Users/sebis/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx0900.tfm" 993061954 3200 f959f56c26f697d341ba38dba18fe1f8 ""
   "C:/Users/sebis/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1000.tfm" 993061956 3200 328792ff19833a39406f06fa0555a6dc ""
   "C:/Users/sebis/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1200.tfm" 993061958 3200 b8d69bc738e5ef3e08cefeef3109ff56 ""
   "C:/Users/sebis/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1440.tfm" 993061960 3196 0b37fa3083e15c57cfa8c4ff52f2807a ""
@@ -65,9 +67,11 @@
   "C:/Users/sebis/AppData/Local/Programs/MiKTeX/tex/latex/llncs/llncs.cls" 1662366460 42312 5c930e3a884976fbd3796e3ab18cc1af ""
   "C:/Users/sebis/AppData/Local/Programs/MiKTeX/tex/latex/oberdiek/aliascnt.sty" 1637060716 2652 813491e2bc95c1dafbb39cd7c54b380b ""
   "C:/Users/sebis/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1636710260 32262 2bb622a0aa56c4a7a5cbdfe9d122c15a ""
-  "build/main.aux" 1664395916 488 fee13bdbe9eb695ea043357f0f49228e "pdflatex"
-  "c:/Users/sebis/OneDrive - Universidad Internacional del Ecuador/7mo_Semestre/Automatización Industrial/Primer semestre/PreparatoryLabNo2/main.tex" 1664395899 1541 8fd3f21589d7e4dfc035ca88ff23ecbb ""
-  "main.tex" 1664395899 1541 8fd3f21589d7e4dfc035ca88ff23ecbb ""
+  "build/main.aux" 1664471167 1138 a1ce9f28cc79e91600ae17f24b7e211d "pdflatex"
+  "c:/Users/sebis/OneDrive - Universidad Internacional del Ecuador/7mo_Semestre/Automatización Industrial/Primer semestre/PreparatoryLabNo2/main.tex" 1664471163 3722 2e6c8d2756092a21e8ee5eface187ecf ""
+  "images/controlCircuit.png" 1664470813 29446 0a0c576aa9a5ef5e0fad75e4f72f206b ""
+  "images/powerCircuit.png" 1664470861 34037 b5499db3220466d4593f75c7373fe7aa ""
+  "main.tex" 1664471163 3722 2e6c8d2756092a21e8ee5eface187ecf ""
   (generated)
   "build/main.aux"
   "build/main.log"
