@@ -1,0 +1,28 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{Nema}
+Carrier, D.S.M.D., Carrier, D.S.M.D.: Stepper motors  (2001)
+
+\bibitem{hines2017soft}
+Hines, L., Petersen, K., Lum, G.Z., Sitti, M.: Soft actuators for small-scale
+  robotics. Advanced materials  \textbf{29}(13),  1603483 (2017)
+
+\bibitem{Valve}
+Lai, W., Rahmat, M., Wahab, N.A.: Modeling and controller design of pneumatic
+  actuator system with control valve. International Journal on Smart Sensing \&
+  Intelligent Systems  \textbf{5}(3) (2012)
+
+\bibitem{Near1996Piezoelectric}
+Near, C.D.: Piezoelectric actuator technology. In: Smart Structures and
+  Materials 1996: Smart Structures and Integrated Systems. vol.~2717, pp.
+  246--258. SPIE (1996)
+
+\bibitem{RobotsYuk2017hydraulic}
+Yuk, H., Lin, S., Ma, C., Takaffoli, M., Fang, N.X., Zhao, X.: Hydraulic
+  hydrogel actuators and robots optically and sonically camouflaged in water.
+  Nature communications  \textbf{8}(1),  1--12 (2017)
+
+\end{thebibliography}
