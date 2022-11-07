@@ -1,0 +1,33 @@
+% Please add the following required packages to your document preamble:
+% \usepackage{multirow}
+% \usepackage{longtable}
+% Note: It may be necessary to compile the document several times to get a multi-page table to line up properly
+\begin{longtable}[c]{lc}
+    \caption{Multi range timer AH3-AB specifications.}
+    \label{tab:AH3-AB}\\
+    \hline
+    \multicolumn{2}{c}{AH3-AB Specifications}                                \\ \hline
+    \endfirsthead
+    %
+    \multicolumn{2}{c}%
+    {{\bfseries Table \thetable\ continued from previous page}} \\
+    \hline
+    \multicolumn{2}{c}{AH3-AB Specifications}                                \\ \hline
+    \endhead
+    %
+    \hline
+    \endfoot
+    %
+    \endlastfoot
+    %
+    \multicolumn{1}{l|}{\multirow{2}{*}{Rated   voltage}}     & AC 110V, 220V,   380V, 440V             \\
+    \multicolumn{1}{l|}{}                   & DC 12V, 24V                    \\
+    \multicolumn{1}{l|}{Rated   frequency}  & 50/60Hz                        \\
+    \multicolumn{1}{l|}{\multirow{2}{*}{Operating   voltage}} & AC 85-110\% of rated   voltage          \\
+    \multicolumn{1}{l|}{}                   & DC 80-110\% of rated   voltage \\
+    \multicolumn{1}{l|}{Consumed   power}                     & 2VA for AC / About 2W   for DC          \\
+    \multicolumn{1}{l|}{Control method}                       & Time-limit operation   / Self-resetting \\
+    \multicolumn{1}{l|}{Contact   rating}   & 250V AC 10A (P.F.=1)           \\
+    \multicolumn{1}{l|}{Ambient temp.}      & -10℃ $\sim$+55℃                \\
+    \multicolumn{1}{l|}{Ambient   humidity} & 45$\sim$85\% RH                \\ \hline
+    \end{longtable}
